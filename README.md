@@ -4,20 +4,21 @@
 #### This project presents a detailed analysis of bird strike data from 2000 to 2011, highlighting the intersection between aviation safety and wildlife conservation. The aim is to shed light on the patterns of bird strikes, assess their impact on aviation, and discuss sustainable measures to protect wildlife.
 
 ## Table Of Content 
-- [Tools Used](#tools-used-while-performoing-the-analysis)
+- [Tools Used](#tools-used-while-performing-the-analysis)
 - [Data Cleaning](#data-cleaning-step-used-in-python)
-- [EDA](#performed-the-eda-in-python)
+- [EDA](#performed-the-eda-task-in-python)
+- [Features](#features)
 - [Dashboard in Tableau](#using-the-cleaned-dataset-performed-interactive-dashboard-in-tableau)
 - [Result](#result-and-findings)
 - [Conclusion](#conclusion)
 
-## Tools Used While performoing the Analysis
+## Tools Used While performing the Analysis
 - Excel - [Download Dataset Here](https://docs.google.com/spreadsheets/d/1PF1PQ4-qg4ySrtyOXiF6SFGX7P0Qfl_r/edit#gid=1443108996)
 - Python
   - Jupyter notebook - Cleaning the dataset and showing the graphical visualizations.
 
 - Tableau - Created an interactive dashboard for analysising all the outcome.
-  
+
 
 ## Data Cleaning Step Used In Python 
 - imported the necessary libraries.
@@ -27,14 +28,22 @@
   - Replacing/Droping the Null/NA values.
   - adjusted the dtypes of date and time columns.
   - droped the unnecessary columns to remove confuctions
+    
+## Features
+- **Data Visualization**: Interactive charts and graphs that illustrate the frequency and impact of bird strikes on different aircraft types and during various flight phases.
+- **Trend Analysis**: Insights into the seasonal and annual trends of bird strikes, revealing significant patterns.
+- **Species Impact Study**: Focused research on the species of wildlife most frequently involved in strikes and their conservation status.
+- **Mitigation Strategies**: Proposed strategies to reduce bird strikes based on data-driven insights.
+- **Economic Analysis**: Assessment of the financial implications of bird strikes on the aviation industry.
 
-## Performed the EDA In Python:
+## Performed the EDA Task In Python:
 - Top 10 Birds Struck on the following Airport 
 - Bar plot for Birds Struck at Diff. Altitude
 - Distribution Category Wise Birds Struck
 - Pie Chart to show the Birds struck by Aircraft Models
 - Impact to Flight Caused by Birds Struck
 - Different Graphs for Showing Insight of Cost, People Affected & Weather Conditions
+
 
 
 ## Using the cleaned dataset performed Interactive Dashboard in Tableau
