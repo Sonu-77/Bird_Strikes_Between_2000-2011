@@ -1,7 +1,7 @@
 # Bird Strikes between 2000-2011
 
 
-#### This project aims to generate insight for the online sales and offline sale from all over the country to provide the business oweners the overviews of there business. The important part is the owners can analyse the growth or downfall by using the interactive dashboard.
+#### This project presents a detailed analysis of bird strike data from 2000 to 2011, highlighting the intersection between aviation safety and wildlife conservation. The aim is to shed light on the patterns of bird strikes, assess their impact on aviation, and discuss sustainable measures to protect wildlife.
 
 ## Table Of Content 
 - [Tools Used](#tools-used-while-performoing-the-analysis)
