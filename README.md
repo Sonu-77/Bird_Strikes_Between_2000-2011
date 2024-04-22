@@ -1,5 +1,5 @@
 # Bird Strikes between 2000-2011
-# Amazon Sales Analysis 
+
 
 #### This project aims to generate insight for the online sales and offline sale from all over the country to provide the business oweners the overviews of there business. The important part is the owners can analyse the growth or downfall by using the interactive dashboard.
 
