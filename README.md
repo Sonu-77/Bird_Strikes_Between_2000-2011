@@ -1,4 +1,4 @@
-# Bird Strikes between 2000-2011
+# Bird Strikes Between 2000-2011
 
 
 #### This project presents a detailed analysis of bird strike data from 2000 to 2011, highlighting the intersection between aviation safety and wildlife conservation. The aim is to shed light on the patterns of bird strikes, assess their impact on aviation, and discuss sustainable measures to protect wildlife.
