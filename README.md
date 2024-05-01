@@ -47,7 +47,7 @@
 
 
 ## Using the cleaned dataset performed Interactive Dashboard in Tableau
-- [Tableau Dashboard](https://public.tableau.com/app/profile/sonu.kachhap)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/sonu.kachhap/viz/ComprehensiveBirdStrikesBetween2000-2011/BirdsStrickAnalysis)
 
 
 ## Result and Findings
